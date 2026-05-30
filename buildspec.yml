@@ -11,4 +11,4 @@ phases:
   build:
     commands:
       - echo Running automated tests
-      - npm test
+      - npm test     
