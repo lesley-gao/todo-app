@@ -1,6 +1,6 @@
 console.log("Running automated test...");
 
-const testPassed = true;
+const testPassed = false;
 
 if (!testPassed) {
   console.error("Test failed intentionally for CI/CD evidence.");
